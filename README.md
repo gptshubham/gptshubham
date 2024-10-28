@@ -1,10 +1,10 @@
 # Hello, I'm Shubham Kumar Gupta! 👋
 
 ## 🚀 About Me
-I'm a Data Analyst Enthusiast with a keen interest in exploring the power of data. 
-I currently participating in the Data Analytics Summer Internship by IBM SkillsBuild in collaboration with CSRBOX and
+I'm a Web Development and Blockchain Enthusiast.
+I'm currently participating in the NEXUS+ Web Development and Blockchain Bootcamp by Rohit Negi.
+I have comleted 6 weeks Data Analytics Summer Internship by IBM SkillsBuild in collaboration with CSRBOX and
 pursuing BS in Data Science and Applications from IIT Madras.
-My journey in data science has been exciting and I'm eager to dive deeper into the field.
 
 ## 🎓 Education
 - **BS in Data Science and Applications (Foundation Level)**
@@ -15,12 +15,11 @@ My journey in data science has been exciting and I'm eager to dive deeper into t
 - **Codebasics Data Analyst Bootcamp 3.0**
   - Completed [Excel: Mother of Business Intelligence](https://codebasics.io/certificate/CB-51-255944)
   - Created Excel: Sales Analytics and Excel: Finance Analytics Projects
-  - Currently completing Power BI and MySQL
 
 ## 💼 Experience
 - **IBM SkillsBuild & CSRBOX**
-  - Participating in a summer internship program focused on data analytics.
-  - Engaging in hands-on projects and collaborative learning experiences.
+  - Completed 6 weeks' summer internship program focused on data analytics.
+  - Engaged in hands-on projects and collaborative learning experiences.
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/iamshubhamkumargupta/) 
@@ -28,17 +27,16 @@ My journey in data science has been exciting and I'm eager to dive deeper into t
 - [Email](mailto:shubhamca76@gmail.com)
 
 ## 🌱 I'm Currently Learning
-- Advanced data visualization techniques using Power BI.
-- SQL for Data Science using MySQL.
-- Python Data Science Libraries.
-- Excel Data Analytics.
+- Web Development
+- Rust
+- JavaScript
+- Ubuntu Linux 
 
 ## 💡 Interests
-- Data Analytics
+- Web Development
+- Blockchain
 - Machine Learning
 - Artificial Intelligence
-- Data Visualization
-- Big Data
 
 ## 📈 GitHub Stats
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gptshubham&show_icons=true&theme=radical)
