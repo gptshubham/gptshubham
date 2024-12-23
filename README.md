@@ -8,45 +8,19 @@ pursuing BS in Data Science and Applications from IIT Madras.
 
 ## 🎓 Education
 - **BS in Data Science and Applications (Foundation Level)**
-- **IBM SkillsBuild Data Analytics Internship**
-  - Completed comprehensive learning plans on Data Science, Data Concepts, and Data Analytics.
-  - Earned certificates in 'What is Data Science', 'Introduction to Data Concepts', and 'Make an Impact with Data Analytics'.
 - **NEXUS+ Web Development and Blockchain Bootcamp**
-  - Completed HTML
-  - Completing CSS
-  - Built Zomato UI Clone using HTML and Row CSS
-- **Codebasics Data Analyst Bootcamp 3.0**
-  - Completed [Excel: Mother of Business Intelligence](https://codebasics.io/certificate/CB-51-255944)
-  - Created Excel: Sales Analytics and Excel: Finance Analytics Projects
+  - Completed HTML and CSS
+  - Completing JavaScript
+  - Building UI and JavaScript Projects
+  - Built
+    - Zomato UI Clone (HTML and CSS)
+    - BookMyShow UI Clone (HTML and CSS)
+  - also, building some basic JavaScript Projects
 
 ## 💼 Experience
 - **IBM SkillsBuild & CSRBOX**
   - Completed 6 weeks' summer internship program focused on data analytics.
   - Engaged in hands-on projects and collaborative learning experiences.
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/iamshubhamkumargupta/) 
-- [Twitter](https://x.com/shubhamkmrgupta)
-- [Email](mailto:shubhamca76@gmail.com)
-
-## 🌱 I'm Currently Learning
-- Web Development
-- Rust
-- JavaScript
-- Ubuntu Linux 
-
-## 💡 Interests
-- Web Development
-- Blockchain
-- Machine Learning
-- Artificial Intelligence
-
-## 📈 GitHub Stats
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gptshubham&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-Feel free to reach out if you want to collaborate on any project or just want to connect!
-
 ---
 
 ⭐️ From [Shubham Kumar Gupta](https://github.com/gptshubham)
