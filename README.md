@@ -9,17 +9,22 @@ pursuing BS in Data Science and Applications from IIT Madras.
 ## 🎓 Education
 - **BS in Data Science and Applications (Foundation Level)**
 - **NEXUS+ Web Development and Blockchain Bootcamp**
-  - Completed HTML and CSS
-  - Completing JavaScript
-  - Building UI and JavaScript Projects
-  - Built
-    - Zomato UI Clone (HTML and CSS)
-    - BookMyShow UI Clone (HTML and CSS)
-  - also, building some basic JavaScript Projects
+  - Completed HTML, CSS and JavaScript
+  - Completing Git and GitHub (Version Control)
+  - Building Vanilla JavaScript Projects
+  - Built the following Vanilla JavaScript Projects: 
+    - [Zomato Frontend Clone](https://gptshubham.github.io/zomato_vanilla_js/)
+    - [Income Tax Calculator](https://gptshubham.github.io/income_tax_calculator/)
+    - [Rock Paper Scissor Game](https://gptshubham.github.io/rock_paper_scissor_game_js_dom_events/)
+    - [Tic Tac Toe Game](https://gptshubham.github.io/tic_tac_toe_js/)
+    - [Bill Splitter](https://gptshubham.github.io/bill_splitter_js_dom_events/)
+    - [AstroPlanet - The Astrology App](https://gptshubham.github.io/the_astrology_app_js/)
+    - [CricQuiz - The Cricket Quiz App](https://gptshubham.github.io/cricket_quiz_js_form_events/)
+    - [Olympic 2028 Timer](https://github.com/gptshubham/Olympic_2028_Timer)
 
 ## 💼 Experience
 - **IBM SkillsBuild & CSRBOX**
-  - Completed 6 weeks' summer internship program focused on data analytics.
+  - Completed 6 weeks' summer internship program 2024 focused on data analytics.
   - Engaged in hands-on projects and collaborative learning experiences.
 ---
 
