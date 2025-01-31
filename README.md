@@ -15,7 +15,7 @@ pursuing BS in Data Science and Applications from IIT Madras.
 - **MERN Developer at [AonixGlobalAI](https://www.linkedin.com/company/aonixglobalai/posts/?feedView=all) (Jan, 2025 to Present)**
   - Handling the overall Responsiveness of the Web Application using Tailwind CSS
   - CI/CD
-  - Next.js
+  - TypeSctipt, Next.js
   - Building MVPs
     
 - **IBM SkillsBuild & CSRBOX**
